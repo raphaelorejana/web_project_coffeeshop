@@ -6,3 +6,31 @@
   line-height: 20px;
   margin: auto;
 }
+
+.header {
+  background-color: #ffffff;
+  background-image: url(../images/background_header.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.nav {
+  display: flex;
+  justify-content: space-between;
+}
+
+.nav__logo {
+  width: 105px;
+  height: 39px;
+  padding: 30px 0 0 30px;
+}
+
+.nav__links {
+  display: flex;
+  list-style-type: none;
+  margin-top: 30px;
+  margin-right: 80px;
+  column-gap: 20px;
+  justify-content: flex-end;
+}
