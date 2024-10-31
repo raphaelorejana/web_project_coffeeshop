@@ -89,13 +89,14 @@
   top: 124px;
 }
 
-.header__footer {
-}
-
 .header__hours {
   margin-left: 80px;
   margin-bottom: 80px;
   line-height: 20px;
+}
+
+.header__footer {
+  margin: 0;
 }
 
 .header__adress {
