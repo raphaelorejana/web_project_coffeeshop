@@ -76,6 +76,8 @@
 .header__description {
   font-family: "Noto Serif", "Times New Roman", Times, serif;
   max-width: 683px;
+  margin-left: 80px;
+  margin-bottom: 0;
   margin-top: 28px;
 }
 
