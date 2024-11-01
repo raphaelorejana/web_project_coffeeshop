@@ -103,8 +103,10 @@
 
 .header__adress {
   display: flex;
+  position: relative;
   justify-content: space-between;
   margin-right: 80px;
+  z-index: 1;
 }
 
 .header__paragraph {
