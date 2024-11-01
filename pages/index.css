@@ -8,6 +8,7 @@
 }
 
 .header {
+  position: relative;
   display: flex;
   flex-direction: column;
   height: 100vh;
@@ -90,6 +91,7 @@
 }
 
 .header__hours {
+  margin-top: 80px;
   margin-left: 80px;
   margin-bottom: 80px;
   line-height: 20px;
