@@ -52,10 +52,6 @@
   line-height: 20px;
 }
 
-.header__content {
-  margin-left: 80px;
-}
-
 .header__title {
   max-width: 709px;
   margin-top: 243px;
@@ -68,6 +64,7 @@
 }
 
 .header__title_span-accent {
+  margin: 0;
   display: block;
   font-family: "Noto Serif", "Times New Roman", Times, serif;
   font-style: italic;
